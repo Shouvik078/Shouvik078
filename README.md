@@ -19,7 +19,7 @@ Aspiring Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 - ⚡ In my free time I solve problems on LeetCode, HackerRank and read tech articles.
 - 📫 How to reach me: &nbsp; 
 <a href="mailto:shouvikde88@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=red" alt="Gmail Badge"></a>
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Shouvik32)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://web.telegram.org/k/)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-green?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/919093449632)
 
 ---
