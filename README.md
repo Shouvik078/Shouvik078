@@ -51,6 +51,7 @@ Aspiring Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 <p align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shouvik078&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shouvik078&layout=compact&theme=vision-friendly-dark)](https://github.com/Shouvik078)
 
 </p>
 </details>
