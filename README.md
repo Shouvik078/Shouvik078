@@ -17,7 +17,7 @@
 ### :man_technologist: &nbsp;About Me :
 Aspiring Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - 🌱 Exploring Business Strategy, Statistics, Python, MySQL, EDA, PowerBI, Machine Learning.
-- ⚡ In my free time I solve problems on LeetCode, HackerRank and read tech articles.
+- ⚡ In my free time I solve problems on LeetCode, HackerRank and Playing Football.
 - 📫 How to reach me: &nbsp; 
 <a href="mailto:shouvikde88@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-green?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/919093449632)
