@@ -7,6 +7,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/shouvik-de-40aa8b25a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  
 </p>
 
 ---
@@ -20,6 +21,7 @@ Aspiring Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 - 📫 How to reach me: &nbsp; 
 <a href="mailto:shouvikde88@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=red" alt="Gmail Badge"></a>
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-green?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/919093449632)
+<a href="https://www.linkedin.com/in/shouvik-de-40aa8b25a/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 ---
 
