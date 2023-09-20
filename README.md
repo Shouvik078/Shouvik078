@@ -3,13 +3,13 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77C14&width=435&lines=Data+Analyst;Business+Analyst;Data+Engineer" alt="Typing SVG" /></a>
 </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77C14&width=435&lines=Data+Analyst;Business+Analyst;Data+Engineer)](https://git.io/typing-svg)
 <div align="center">
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/shouvik-de-40aa8b25a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-  
+<a href="https://www.linkedin.com/in/shouvik-de-40aa8b25a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
 </p>
 
 ---
