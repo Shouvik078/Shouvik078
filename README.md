@@ -38,7 +38,7 @@ Aspiring Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg" alt="powerbi" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.oracle.com/in/java/technologies/downloads/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> </a>
-
+<a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,github,css,html"> </a>
 </p>
 
 ---
