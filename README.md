@@ -1,4 +1,4 @@
-                    # Hello Data Folks. I'm Shouvik 👋
+# Hello Data Folks. I'm Shouvik 👋
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Shouvik&label=Views&color=blue&style=for-the-badge" alt="Shouvik" /> </p>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70F30&background=2BCFC300&center=true&vCenter=true&width=460&height=45&lines=Data+Analyst;Business+Analyst;SQL+Developer" alt="Typing SVG" /></a>
