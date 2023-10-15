@@ -40,7 +40,7 @@
 <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="Java" width="40" height="40"/> </a>
 <a href="https://css.master.co/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="Java" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Java" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="![excel](https://github.com/Shouvik078/Shouvik078/assets/106507099/5397c2ec-349c-4e75-8b74-09d05ea26e34)
+<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="![excel](https://github.com/Shouvik078/Shouvik078/assets/106507099/93807d7b-4e67-4a00-b64f-e87f68a0d185)
 " alt="Java" width="40" height="40"/> </a>
 <a href="https://github.com/Shouvik078"><img src="https://skillicons.dev/icons?i=github"> </a>
 </p>
