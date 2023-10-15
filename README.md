@@ -40,6 +40,7 @@
 <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="Java" width="40" height="40"/> </a>
 <a href="https://css.master.co/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="Java" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Java" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://www.flaticon.com/free-icon/excel_732220?term=excel&page=1&position=1&origin=tag&related_id=732220" alt="Java" width="40" height="40"/> </a>
 <a href="https://github.com/Shouvik078"><img src="https://skillicons.dev/icons?i=github"> </a>
 </p>
 
