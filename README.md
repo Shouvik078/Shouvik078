@@ -16,7 +16,7 @@
 <img align="right" height="150" width="150" alt="" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
 ### :man_technologist: &nbsp;About Me :
-  Aspiring Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+  A Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - 🌱 Exploring Business Strategy, Statistics, Python, MySQL, EDA, PowerBI, Machine Learning.
 - ⚡ In my free time I solve problems on LeetCode, HackerRank and Playing Football.
 - 📫 How to reach me: &nbsp; 
