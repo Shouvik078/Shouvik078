@@ -29,7 +29,7 @@
 ### 🛠 &nbsp;Languages and Tools :
 <p align="left"> 
 <a href="https://spark.apache.org/docs/latest/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Spark-logo-192x100px.png" alt="Spark" width="40" height="40"/> </a>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/bn/2/21/%E0%A6%97%E0%A7%81%E0%A6%97%E0%A6%B2_%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%89%E0%A6%A1_%E0%A6%AA%E0%A7%8D%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" alt="python" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
