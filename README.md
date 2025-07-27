@@ -17,7 +17,7 @@
 
 ### :man_technologist: &nbsp;About Me :
   A Big Data Guy <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- 🌱 Exploring Business Strategy, Statistics, Python, MySQL, EDA, PowerBI, Machine Learning.
+- 🌱 Exploring Big Data Domain, Spark, GCP, Statistics, Python, SQL, EDA, PowerBI, Machine Learning.
 - ⚡ In my free time I solve problems on LeetCode, HackerRank and Playing Football.
 - 📫 How to reach me: &nbsp; 
 <a href="mailto:shouvikde88@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
@@ -28,6 +28,7 @@
 
 ### 🛠 &nbsp;Languages and Tools :
 <p align="left"> 
+ <a href="https://spark.apache.org/docs/latest/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Spark-logo-192x100px.png" alt="Spark" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
